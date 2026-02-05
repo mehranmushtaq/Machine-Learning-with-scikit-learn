@@ -30,7 +30,6 @@ This repository demonstrates the complete machine learning pipeline:
 	•	Scatter plots
 	•	Model prediction visualization
 
-⸻
 
 ## Machine Learning Models
 
@@ -45,11 +44,9 @@ Implemented for regression problems such as house price prediction.
 	•	Residual analysis
 
 ## Evaluation metrics:
-	•	Mean Absolute Error (MAE)
-	•	Mean Squared Error (MSE)
+	•	Adjusted R²
 	•	R² Score
-
-⸻
+ 
 
 ## Logistic Regression
 
