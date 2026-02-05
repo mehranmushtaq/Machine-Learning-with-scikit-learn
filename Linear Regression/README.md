@@ -34,6 +34,12 @@ It demonstrates the complete ML workflow including data preprocessing, model tra
 - Used correlation analysis to select important features
 
 ---
+## 📈 Actual vs Predicted Values
+
+![Actual vs Predicted](actual_vs_predicted.png)
+The scatter plot shows that predicted house prices closely follow actual values,
+indicating strong model performance and a high R² score.
+
 
 ## 🤖 Model Details
 - **Algorithm:** Linear Regression
