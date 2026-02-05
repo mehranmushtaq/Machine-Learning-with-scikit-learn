@@ -2,23 +2,6 @@
 This repository contains implementations of fundamental machine learning algorithms using Python and Scikit-Learn, along with feature engineering, data visualization, cross-validation, and model evaluation techniques.
 The goal of this repository is to build a strong practical foundation in machine learning by working with real datasets and complete ML workflows.
 
-## Repository Structure
-
-machine-learning-sklearn/
-│
-├── Datasets/
-│   ├── house_prices.csv
-│   ├── classification_dataset.csv
-│   └── (other datasets)
-│
-├── Linear Regression/
-│   └── house_price_prediction.ipynb
-│
-├── Logistic Regression/
-│   └── classification_model.ipynb
-│
-└── README.md
-
 ## Topics Covered
 
 This repository demonstrates the complete machine learning pipeline:
