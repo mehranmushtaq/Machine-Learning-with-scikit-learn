@@ -65,8 +65,6 @@ Implemented for classification problems.
 	•	Recall
 	•	F1 Score
 
-⸻
-
 ## Cross Validation
 
 Used to improve model reliability and prevent overfitting.
@@ -75,7 +73,6 @@ Used to improve model reliability and prevent overfitting.
 	•	K-Fold Cross Validation
 	•	Cross-validation scoring
 
-⸻
 
 ## Tools and Libraries
 	•	Python
@@ -86,7 +83,6 @@ Used to improve model reliability and prevent overfitting.
 	•	Scikit-Learn
 	•	Jupyter Notebook
 
-⸻
 
 ## Learning Objective
 
@@ -97,7 +93,6 @@ This repository is part of my machine learning learning journey.
 	•	Practicing real datasets
 	•	Building portfolio-ready ML projects
 
-⸻
 
 ## Future Additions
 
