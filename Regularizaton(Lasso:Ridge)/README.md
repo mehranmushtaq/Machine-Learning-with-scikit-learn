@@ -21,12 +21,19 @@ The model is trained on beneficiary data including:
 ## 🛠️ Machine Learning Workflow
 
 The project implements a structured, production-ready pipeline:
+
 1. Data Preprocessing: Handling categorical variables through encoding.
+  
 2. Feature Engineering: Creating interaction terms (e.g., bmi_smoker) to capture non-linear relationships.
+ 
 3. Data Splitting: 70/30 Train-Test split for robust evaluation.
-4. Pipeline Integration: * Standardization: Using StandardScaler to normalize features.
+ 
+4. Pipeline Integration: *Standardization: Using StandardScaler to normalize features.
+ 
 5• Modeling: Seamlessly connecting scaling to the regression estimator to prevent data leakage.
+
 6. Hyperparameter Tuning: Using GridSearchCV to find the optimal \bm{\alpha} (regularization strength).
+ 
 7. Evaluation: Comparing models using {R^2}, MSE, and RMSE.
  
 ## 🏆 Model Results
