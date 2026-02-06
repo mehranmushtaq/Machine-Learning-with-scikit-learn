@@ -34,11 +34,11 @@ Note: Ridge Regression performed slightly better, suggesting that shrinking coef
 
 ## 🖼️ Visualizations
 ## 1️⃣ Feature Correlation Heatmap
-![Correlation Heatmap](correlation_heatmap.png)
+![Correlation Heatmap](image1.png)
 Identifies the strongest drivers of insurance costs, highlighting the massive impact of smoking status and age.
 
 ## 2️⃣ Actual vs. Predicted Charges (Ridge)
-![Actual vs Predicted](ridge_predictions.png)
+![Actual vs Predicted](image2.png)
 Visualizes how well the model's predictions align with reality.
 
 ## 🧰 Tech Stack & Skills
