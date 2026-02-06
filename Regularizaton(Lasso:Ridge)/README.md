@@ -30,7 +30,7 @@ The project implements a structured, production-ready pipeline:
  
 4. Pipeline Integration: *Standardization: Using StandardScaler to normalize features.
  
-5• Modeling: Seamlessly connecting scaling to the regression estimator to prevent data leakage.
+5.Modeling: Seamlessly connecting scaling to the regression estimator to prevent data leakage.
 
 6. Hyperparameter Tuning: Using GridSearchCV to find the optimal \bm{\alpha} (regularization strength).
  
