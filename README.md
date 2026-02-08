@@ -44,11 +44,8 @@ This repository demonstrates a complete end-to-end ML pipeline:
 Feature engineering techniques used in this repository include:
 
 	•	One-hot encoding
-	
 	•	Creating interaction terms for combined feature effects
-	
 	•	Feature selection
-	
 	•	Removing irrelevant features
 
 These steps help improve model performance and interpretability.
