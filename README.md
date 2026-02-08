@@ -21,6 +21,7 @@ Machine-Learning-with-scikit-learn/
 ## Machine Learning Workflow Implemented
 
 This repository demonstrates a complete end-to-end ML pipeline:
+
 	•	Data preprocessing
 	•	Feature engineering
 	•	Data visualization
@@ -57,6 +58,7 @@ These steps help improve model performance and interpretability.
 Visualization is performed before and after model training to better understand the dataset and model performance.
 
 Libraries used:
+
 	•	Matplotlib
 	•	Seaborn
 
@@ -81,11 +83,13 @@ Dataset used: House Price Practice
 Used for regression problems such as prediction tasks.
 
 Concepts covered:
+
 	•	Model training using Scikit-Learn
 	•	Predictions
 	•	Residual analysis
 
 Evaluation metrics:
+
 	•	R² Score
 	•	Adjusted R²
 	•	Mean Squared Error (MSE)
@@ -99,6 +103,7 @@ Dataset used: Social Network Ads
 This section includes a complete classification workflow using Pipeline and GridSearchCV.
 
 Concepts covered:
+
 	•	Sigmoid function
 	•	Decision boundary
 	•	Binary classification
@@ -107,6 +112,7 @@ Concepts covered:
 	•	Hyperparameter tuning using GridSearchCV
 
 Evaluation metrics:
+
 	•	Accuracy
 	•	Confusion Matrix
 	•	Precision
@@ -120,6 +126,7 @@ Dataset used: insurance.csv
 Regularization is implemented to reduce overfitting and improve generalization.
 
 Concepts covered:
+
 	•	Lasso Regression (L1 regularization)
 	•	Ridge Regression (L2 regularization)
 	•	Feature shrinkage
@@ -128,6 +135,7 @@ Concepts covered:
 	•	Cross-validation
 
 Evaluation metrics:
+
 	•	Cross-validation score
 	•	R² Score
 	•	Mean Squared Error (MSE)
@@ -158,8 +166,8 @@ Pipelines are used to combine preprocessing and modeling steps into a single wor
 This repository is part of my machine learning learning journey.
 
 The focus is on:
+
 	•	Understanding ML algorithms conceptually
-	
 	•	Implementing models using Scikit-Learn
 	•	Practicing with real datasets
 	•	Applying feature engineering techniques
